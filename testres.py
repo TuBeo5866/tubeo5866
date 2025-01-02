@@ -23,17 +23,15 @@ elif os_type in ["Linux", "Darwin"]:  # Darwin is for macOS
     import termios
     import tty
     os.system(f"stty rows {height} cols {width}")
-    os.system(f"echo -e '\033]0;{title}\a'")
-        print("Press any key to continue...")
-        fd = sys.stdin.fileno()
-        old_settings = termios.tcgetattr(fd)
-        try:
-            tty.setraw(fd)
-            sys.stdin.read(1)  # Wait for one character input
-        finally:
-            termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+    os.system(f"printf '\033]0;{title}\a'")
+    print("Press any key to continue...")
+    fd = sys.stdin.fileno()
+    old_settings = termios.tcgetattr(fd)
+    try:
+        tty.setraw(fd)
+        sys.stdin.read(1)  # Wait for one character input
+    finally:
+        termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
 
-# Call the function to wait for key press
-press_any_key_to_continue()
 
 
