@@ -14,6 +14,7 @@ if os_type == "Windows":
     import msvcrt
     os.system(f"mode con: cols={width} lines={height}")
     os.system(f"title {title}")
+    os.system(f'cls')
     print("Press any key to continue...")
     msvcrt.getch()
 
@@ -24,6 +25,7 @@ elif os_type in ["Linux", "Darwin"]:  # Darwin is for macOS
     import tty
     os.system(f"stty rows {height} cols {width}")
     os.system(f"printf '\033]0;{title}\a'")
+    os.system(f'clear')
     print("Press any key to continue...")
     fd = sys.stdin.fileno()
     old_settings = termios.tcgetattr(fd)
