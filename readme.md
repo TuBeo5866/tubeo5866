@@ -2,12 +2,7 @@
 <h1 align="center">Hi 👋, I'm TuBeo5866 !</h1>
 <h2 align="center">Formerly known as: TuBell, Atus, Tuấn Tú!</h2>
 <h3 align="center">A junior developer building & developing some projects</h3>
-
-<!-- Social Media Links -->
-<h3 align="center">⬅️ Social Links ➡️</h3>
-<p align="center" width: 50px;>
-  <a href="https://linktr.ee/tubeo5866/" target="blank"><alt="Linktr.ee" /></a>
-</p>
+<h3 align="center">My Social Link (Linktree): https://linktr.ee/TuBeo5866 </h3>
 
 <!-- About Me -->
 <p align="center">I'm a software engineer specializing in full-stack development, creating robust and scalable applications and games.</p>
