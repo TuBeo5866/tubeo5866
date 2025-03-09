@@ -6,7 +6,7 @@
 <!-- Social Media Links -->
 <h3 align="center">⬅️ Social Links ➡️</h3>
 <p align="center" width: 50px;>
-  <a href="https://linktr.ee/tubeo5866/" target="blank"><img align="center" alt="YouTube" /></a>
+  <a href="https://linktr.ee/tubeo5866/" target="blank"> <alt="Linktr.ee" /></a>
 </p>
 
 <!-- About Me -->
