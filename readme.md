@@ -10,7 +10,6 @@
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c#.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
 </p>
