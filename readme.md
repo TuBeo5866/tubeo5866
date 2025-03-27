@@ -17,7 +17,7 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubeo5866&layout=compact&theme=tokyonight" alt="Languages" align="center"/>
+  <p align="center" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubeo5866&layout=compact&theme=tokyonight" alt="Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=tubeo5866&show_icons=true&theme=tokyonight" alt=" Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tubeo5866&theme=tokyonight" alt="Streak" />
 </p>
