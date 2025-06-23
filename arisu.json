@@ -443,7 +443,10 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/TuBeo5866/tubeo5866/refs/heads/main/background.jpg"
+        "url": "https://raw.githubusercontent.com/TuBeo5866/tubeo5866/refs/heads/main/background.png",
+	"alpha": 0.9,
+        "color": "#0A0A0A",
+        "blur": 0
     },
     "plus": {
         "version": 0,
