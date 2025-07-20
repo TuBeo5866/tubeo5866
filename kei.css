@@ -1,14 +1,19 @@
 /**
 * @name Kei (Blue Archive) 
 * @author tubeo5866#5287
-* @version 1.0
-* @description Well, at least Kei wasn't in Arisu's body, now, in Discord (decrease performance)
-* @invite XU3DFWHRMN
-* @source idk
+* @version 1.0.1
+* @description Well, at least Kei wasn't in Arisu's body, right now in Discord (without GIF)
+* @source ur mom, battery factory
+* === CHANGELOGS ===
+* v1.0.1: Fix performance
+*  - Removed GIF (that GIF takes more 2 minutes long, and it may decrease your PC performance so I just removed)
+*    (if your pc is strong enough, please enter this: --background-image: url('https://media.githubusercontent.com/media/TuBeo5866/tubeo5866/refs/heads/main/KEI%2B2%2B(compressed).gif');)
+*    (here is the PNG (the original): --background-image: url('https://raw.githubusercontent.com/TuBeo5866/tubeo5866/refs/heads/main/KEI%2B2%2B(compressed).png');)
 */
 
 @import url('https://discordstyles.github.io/FrostedGlass/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://miyakukage.github.io/discord-momotalk/MomotalkSource.theme.css');
 
 :root {
 /*--background-image: url('https://media.githubusercontent.com/media/TuBeo5866/tubeo5866/refs/heads/main/KEI%2B2%2B(compressed).gif'); */
@@ -41,6 +46,7 @@
   --tint-brightness: 0;
   --window-padding: 0px;
   --update-notice-1: none;
+  --characterfriends: url('https://miyakukage.github.io/discord-momotalk/img/chara/plana.apng'); 
 }
 
 /* Any custom CSS below here */
