@@ -31,6 +31,7 @@
 <h3 align="center">🚀 Projects 🚀</h3>
 <p align="center">
   <h3 align="center">Currently I don't have big projects yet! :( </h1>
+  <h3 align="center">And <a href="https://github.com/tubeo5866/tubeo5866">/tubeo5866/tubeo5866</a> has a ton of trash, so you may not need to visit it...</h1>
 </p>
 
 <!-- Footer -->
