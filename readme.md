@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm TuBeo5866 !</h1>
-<h2 align="center">Formerly known as: TuBell, Atus, Tuấn Tú!</h2>
+<h2 align="center">Formerly known as: TuBell, Atus, a useless stoobid dev!</h2>
 <h3 align="center">A junior developer building & developing some projects</h3>
 <h3 align="center">My Social Link (Linktree): https://linktr.ee/TuBeo5866 </h3>
 
