@@ -3,26 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" width="24"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" width="28"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" width="28"/>
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" width="28"/>
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" width="28"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo width="28"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" width="28"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" width="28"/>
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo" width="28"/>
 </div>
 
 ###
