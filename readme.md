@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/316petzrdvrteasaneyw4hq2g3se">
-    <img src="https://spotify-github-profile.kittinanx.com/api?user=316petzrdvrteasaneyw4hq2g3se&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316petzrdvrteasaneyw4hq2g3se&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=006eff&bar_color_cover=false" alt="Spotify recently played"  />
   </a>
 </div>
 
