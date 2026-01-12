@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs" width="40"/>
   </div><br>
 
-<p align="center">✨ And you can connect to me... with these social links!</p>
+<p align="center">✨ And you can connect to me... with these social links... and <a href="https://tubeo5866.com">my website</a>!</p>
   <div align="center">
     <a href="https://x.com/TuBeo5866">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
@@ -44,4 +44,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubeo5866&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
   </div>
 
-<br><p align="center">⭐️ From tub.b3ll (Tendou Atus) - @tubeo5866</p>
+<br><p align="center">⭐️ From tub.b3ll (Tendou Atus) - <a href="https://github.com/tubeo5866">@tubeo5866</a></p>
