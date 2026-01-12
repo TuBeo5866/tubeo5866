@@ -1,11 +1,11 @@
-<h1 align="center">Hey, what's up?</h1><br>
-  <p align="center">👋 I'm a freelance website + app developer</p>
+<h1 align="center">👋 Hey, what's up?</h1><br>
+  <p align="center">I'm a freelance website + app developer</p>
   <p align="center">But I can't work much since I have works and stuff on my life too (and so do you :D)...</p>
 
 <h2 align="center">About me</h2>
   <p align="center">💻 Take a look at these coding languages. I code with them, or maybe more...?</p>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="40"/>
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="40" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="40"/>
     <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" width="40"/>
     <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust" width="40"/>
