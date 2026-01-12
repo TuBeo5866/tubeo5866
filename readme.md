@@ -52,8 +52,6 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tubeo5866/tubeo5866/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tubeo5866/tubeo5866/output/pacman-contribution-graph.svg">
   <img src="https://pacman.abozanona.me?username=tubeo5866" />
 </picture>
 
