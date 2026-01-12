@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" width="28"/>
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" width="28"/>
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo width="28"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" width="28"/>
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" width="28"/>
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" width="28"/>
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo" width="28"/>
