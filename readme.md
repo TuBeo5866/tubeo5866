@@ -1,40 +1,47 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" width="24"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" width="28"/>
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo" width="28"/>
-</div>
+<h1 align="center">Hey, what's up?</h1><br>
+  <p align="center">👋 I'm a freelance website + app developer</p>
+  <p align="center">But I can't work much since I have works and stuff on my life too (and so do you :D)...</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
+<h2 align="center">About me</h2>
+  <p align="center">💻 Take a look at these coding languages. I code with them, or maybe more...?</p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="40"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="40"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" width="40"/>
+    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust" width="40"/>
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" width="40"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus" width="40"/>
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" width="40"/>
+    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp" width="40"/>
+    <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs" width="40"/>
+  </div><br>
 
-<div align="center" clear="both">
-  <a href="https://open.spotify.com/user/316petzrdvrteasaneyw4hq2g3se">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316petzrdvrteasaneyw4hq2g3se&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=006eff&bar_color_cover=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<p align="center">✨ And you can connect to me... with these social links!</p>
+  <div align="center">
+    <a href="https://x.com/TuBeo5866">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
+    <a href="https://discordapp.com/users/698715849434988608">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="discord logo"  />
+    <a href="https://facebook.com/TuBeo586666">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="facebook logo"  />
+    <a href="https://bsky.app/profile/tubeo5866.bsky.app">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="bluesky logo"  />
+    <a href="https://t.me/tubeo5866">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="telegram logo"  />
+  </div><br>
+    
+<p align="center">🎵 And... well don't mind if I'm listening to my favourite music.</p>
+  <div align="center" clear="both">
+    <a href="https://open.spotify.com/user/316petzrdvrteasaneyw4hq2g3se">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316petzrdvrteasaneyw4hq2g3se&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=006eff&bar_color_cover=false" alt="Spotify recently played"/>
+    </a>
+  </div>
 
-<br clear="both">
-<picture><img src="https://pacman.abozanona.me?username=tubeo5866" /></picture>
+<h2 align="center">My activities</h2>
+  <br clear="both">
+    <picture><img src="https://pacman.abozanona.me?username=tubeo5866" alt="pacman graph, actually"/></picture>
+  <br><div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubeo5866&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tubeo5866&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tubeo5866&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=tubeo5866&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=tubeo5866&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubeo5866&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
+<br><p align="center">⭐️ From tub.b3ll (Tendou Atus) - @tubeo5866</p>
