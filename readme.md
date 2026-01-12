@@ -21,6 +21,11 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
+<div align="center" clear="both">
+  <a href="https://open.spotify.com/user/316petzrdvrteasaneyw4hq2g3se">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316petzrdvrteasaneyw4hq2g3se&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=006eff&bar_color_cover=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 <br clear="both">
 <picture><img src="https://pacman.abozanona.me?username=tubeo5866" /></picture>
@@ -33,10 +38,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tubeo5866&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/316petzrdvrteasaneyw4hq2g3se">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316petzrdvrteasaneyw4hq2g3se&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=006eff&bar_color_cover=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
