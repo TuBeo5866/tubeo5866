@@ -1,4 +1,17 @@
-/* main.css */
+/* main.css: forked and edited by TuBeo5866#5387 | original by refact0r
+
+----- CHANGELOGS -----
+
+> Version 1.2:
+-- Fix padding and some margins for Vencord buttons.
+
+> Version 1.1:
+-- Add more background wallpaper support: GIF/WEBP animated and static images.
+
+> Version 1.0:
+-- Initial release.
+
+*/
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 [class*=titleBar] { display: none !important }
