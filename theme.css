@@ -1845,7 +1845,7 @@ body {
         margin: 0;
     }
     .toolbar__9293f {
-        padding-right: var(--top-bar-right-margin);
+        padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px);
     }
     .navBarContent__88ef1,
     .headerBarContent__1a9ce {
