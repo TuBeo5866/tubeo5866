@@ -1841,7 +1841,7 @@ body {
         margin: 0;
     }
     .alignedRightContent__80679 {
-        padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px);
+        padding-right: calc(var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px)
     }
     .toolbar__9293f {
         padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px);
