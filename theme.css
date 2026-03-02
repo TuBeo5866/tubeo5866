@@ -1849,7 +1849,7 @@ body {
     }
     .navBarContent__88ef1,
     .headerBarContent__1a9ce {
-        padding-right: var(--top-bar-right-margin);
+        padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px);
     }
     .headerBar__8a7fc {
         padding-right: calc(var(--top-bar-right-margin) + var(--space-sm));
