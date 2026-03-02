@@ -1,11 +1,7 @@
 /* main.css */
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-[class*=titleBar] {
-   display: none !important
-}
-
-
+[class*=titleBar] { display: none !important }
 :root {
     container-name: root;
     --custom-guild-list-padding: 12px;
@@ -1843,6 +1839,9 @@ body {
         width: var(--space-xs);
         box-sizing: border-box;
         margin: 0;
+    }
+    .alignedRightContent__80679 {
+        padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px);
     }
     .toolbar__9293f {
         padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px);
