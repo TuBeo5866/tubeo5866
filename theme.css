@@ -1857,7 +1857,7 @@ body {
         padding-right: calc(var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px)
     }
     .toolbar__9293f {
-        padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 - var(--space-lg) - 10px);
+    padding-right: calc(var(--top-bar-right-margin) + var(--top-bar-right-margin) / 2 + var(--space-lg) + 20px);
     }
     .navBarContent__88ef1,
     .headerBarContent__1a9ce {
