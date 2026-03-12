@@ -355,7 +355,7 @@ body {
 }
 
 .unreadMentionsIndicatorBottom_ef3116 /* server list new pill */,
-    .unreadMentionsIndicatorTop_ef3116 {
+     {
     width: calc(var(--guildbar-avatar-size) + var(--custom-guild-list-padding) * 2);
     padding: calc(var(--custom-guild-list-padding) / 2);
 }
@@ -486,10 +486,6 @@ body {
 }
 .burstGlow__23977 {
     display: none;
-}
-
-.unreadMentionsIndicatorTop_ef3116 {
-    top: 24px;
 }
 
 /* animations.css */
