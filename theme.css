@@ -354,10 +354,13 @@ body {
     bottom: 0;
 }
 
-.unreadMentionsIndicatorBottom_ef3116 /* server list new pill */,
-     {
+.unreadMentionsIndicatorBottom_ef3116 { /* server list new pill */
     width: calc(var(--guildbar-avatar-size) + var(--custom-guild-list-padding) * 2);
     padding: calc(var(--custom-guild-list-padding) / 2);
+}
+
+.unreadMentionsIndicatorTop_ef3116 { /* server list new pill */,
+    top: 24px;
 }
 
 #vc-spotify-player /* vencord spotify plugin */ {
