@@ -5,15 +5,15 @@
 <h2 align="center">About me</h2>
   <p align="center">💻 Take a look at these coding languages. I code with them, or maybe more...?</p>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="40" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="40"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" width="40"/>
-    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust" width="40"/>
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" width="40"/>
-    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus" width="40"/>
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" width="40"/>
-    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp" width="40"/>
-    <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs" width="40"/>
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" width="32" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" width="32"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" width="32"/>
+    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust" width="32"/>
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" width="32"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus" width="32"/>
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" width="32"/>
+    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp" width="32"/>
+    <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs" width="32"/>
   </div><br>
 
 <p align="center">✨ And you can connect to me... with these social links... and <a href="https://tubeo5866.com">my website</a>!</p>
